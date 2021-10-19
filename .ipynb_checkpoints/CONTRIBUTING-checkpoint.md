@@ -33,3 +33,4 @@
 | Misbahud Din      | [@Misbahud-Din](https://github.com/Misbahud-Din)              |
 | Ganzabahl         | [@Ganzabahl](https://github.com/Ganzabahl)                    |
 | Ashish            | [@ashish-garg18](https://github.com/ashish-garg18)            |
+| Jaiwant           | [@jaiwant](https://github.com/JSM2512)                        |
